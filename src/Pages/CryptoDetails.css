@@ -1,0 +1,45 @@
+
+.crypto-details {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.crypto-name {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.crypto-info {
+  list-style-type: none;
+  padding: 0;
+}
+
+.crypto-info li {
+  margin-bottom: 10px;
+}
+
+.crypto-info li strong {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.crypto-info li a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.crypto-info li a:hover {
+  text-decoration: underline;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 1.2rem;
+  color: #666;
+}
